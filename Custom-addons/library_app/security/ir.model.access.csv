@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_c:\odoo\odoo\custom-addons\library_app_c:\odoo\odoo\custom-addons\library_app,c:\odoo\odoo\custom-addons\library_app.c:\odoo\odoo\custom-addons\library_app,model_c:\odoo\odoo\custom-addons\library_app_c:\odoo\odoo\custom-addons\library_app,base.group_user,1,1,1,1
